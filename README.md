@@ -34,7 +34,7 @@ g++ 7.5.0
 
 当并发量为10000的时候，没有失败的连接
 
-![image-20210521204148302](/home/liushuai/.config/Typora/typora-user-images/image-20210521204148302.png)
+![image](https://github.com/liushuai839/MyWebServer/blob/main/image-20210521204148302.png)
 
 
 
