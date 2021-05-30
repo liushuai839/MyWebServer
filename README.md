@@ -24,7 +24,7 @@ g++ 7.5.0
 
 ## 框架
 
-
+![image](https://github.com/liushuai839/MyWebServer/blob/main/1.png)
 
 
 
